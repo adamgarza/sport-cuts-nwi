@@ -9,6 +9,6 @@ $message = $_POST['message'];
 $content="Sport Cuts Website Message - From: $name \n Email: $email \n Message: $message";
 $recipient = "agarza@thecreativefew.com";
 $mailheader = "From: $email \r\n";
-mail($recipient, $content, $mailheader) or die("Error!");
+mail($recipient, $content, $mailheader) or die("There was a problem sending your Message. Please try again.");
 echo "Email sent!";
 ?>
