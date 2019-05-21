@@ -220,6 +220,14 @@ a:active {
     color: #fff;
 }
 
+.first-content span {
+    display: inline-block;
+    margin-top: -20px;
+    font-weight: 300;
+    font-size: 38px;
+    color: #fff;
+}
+
 .baner-content .primary-button {
     margin-top: 15px;
 }
