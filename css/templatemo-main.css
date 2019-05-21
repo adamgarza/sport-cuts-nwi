@@ -34,6 +34,22 @@ a:hover {
     color: #fff;
 }
 
+a:link {
+  color: #ff8e43;
+}
+
+a:visited {
+  color: #ff8e43;
+}
+
+/* .left-text a:hover {
+  color: #ff8e43;
+} */
+
+a:active {
+  color: #ff8e43;
+}
+
 /*----------
   NAV
 ----------*/
@@ -260,22 +276,6 @@ h4,
     height: 3px;
     background-color: #ff7d27;
     margin: 20px auto 15px auto;
-}
-
-.left-text a:link {
-  color: #ff8e43;
-}
-
-.left-text a:visited {
-  color: #ff8e43;
-}
-
-.left-text a:hover {
-  color: #ff8e43;
-}
-
-.left-text a:active {
-  color: #ff8e43;
 }
 
 .tabs-content {
