@@ -42,12 +42,24 @@ a:visited {
   color: #ff8e43;
 }
 
-/* .left-text a:hover {
-  color: #ff8e43;
-} */
-
 a:active {
   color: #ff8e43;
+}
+
+.service-linbk a:hover {
+    color: #fff;
+}
+
+.service-linbk a:link {
+  color: #fff;
+}
+
+ .service-linbka:visited {
+  color: #fff;
+}
+
+ .service-linbka:active {
+  color: #fff;
 }
 
 /*----------
