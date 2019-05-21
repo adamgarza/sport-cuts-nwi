@@ -25,6 +25,11 @@ h2 {
     font-size: 40px;
 }
 
+h4 {
+    color: #fff;
+    font-size: 30px;
+}
+
 a {
     color: #ff7d27;
     text-decoration: underline;
