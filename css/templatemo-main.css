@@ -220,7 +220,7 @@ a:active {
     color: #fff;
 }
 
-.first-content span {
+.span-address {
     display: inline-block;
     margin-top: -20px;
     font-weight: 300;
