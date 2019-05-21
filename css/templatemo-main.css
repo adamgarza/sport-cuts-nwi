@@ -3,7 +3,6 @@
 Sport Cuts April 2019
 
 ------------ */
-
 p {
     font-size: 15px;
     line-height: 25px;
@@ -65,7 +64,6 @@ a:active {
 /*----------
   NAV
 ----------*/
-
 .fixed-side-navbar {
     position: fixed;
     top: 50%;
@@ -169,7 +167,9 @@ a:active {
     animation-name: fadeInRight;
 }
 
-
+/*------------
+BANNER
+------------*/
 .primary-button a {
     display: inline-block;
     background-color: #ff7d27;
@@ -183,13 +183,11 @@ a:active {
     letter-spacing: 0.5px;
 }
 
-
 .parallax-content {
     width: 100%;
     min-height: 100vh;
     background-size: cover;
 }
-
 
 .baner-content {
     padding-top: 30vh;
@@ -224,8 +222,9 @@ a:active {
     margin-top: 15px;
 }
 
-
-
+/*----------
+Services
+----------*/
 .service-content {
     padding-left: 15px;
     padding-right: 15px;
@@ -354,7 +353,6 @@ section {
     color: #ff7d27;
 }
 
-
 .tabgroup div {}
 
 .tabgroup p {
@@ -369,7 +367,9 @@ section {
     clear: both;
 }
 
-
+/*----------
+Contact
+----------*/
 .contact-content {
     background-color: #206786;
     padding-left: 15px;
@@ -452,6 +452,9 @@ section {
     text-align: center;
 }
 
+/*-------
+FOOTER
+-------*/
 footer {
     text-align: center;
     background-color: #282b2f;
